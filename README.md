@@ -158,3 +158,5 @@ Tests run entirely in-memory — no Redis required.
 - **Pydantic v2** — model validation
 - **Redis 7** — atomic counters with auto-expiry
 - Python 3.12+
+
+<!-- Last updated: 2026-05-29 -->
