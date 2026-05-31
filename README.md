@@ -160,3 +160,5 @@ Tests run entirely in-memory — no Redis required.
 - Python 3.12+
 
 <!-- Last updated: 2026-05-29 -->
+
+<!-- Last updated: 2026-05-31 -->
