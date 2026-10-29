@@ -314,3 +314,5 @@ Tests run entirely in-memory — no Redis required.
 <!-- Last updated: 2026-10-25 -->
 
 <!-- Last updated: 2026-10-27 -->
+
+<!-- Last updated: 2026-10-29 -->
